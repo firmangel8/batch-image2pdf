@@ -1,5 +1,5 @@
 # batch-image2pdf
-Utitlity to batch processing of convert document PDF to Image. This converter based on Poppler engine to help convert batch document PDF to images.
+Utitlity batch processing of convert document PDF to Image. This converter based on Poppler engine to help convert batch document PDF to images.
 
 # Feature
 - Able to selective convert based on file extensions, only pdf file will proceed.
