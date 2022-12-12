@@ -37,3 +37,7 @@ def convertPDFBatch(path_url, result_path, prefix_page):
             convert_pdf_inpage(link_path, path_url, result_path, prefix_page)
             console_info('Convert ' + link_path, "DONE")
     print('All exported done..')
+
+
+if __name__ == "__main__":
+    convertPDFBatch()
