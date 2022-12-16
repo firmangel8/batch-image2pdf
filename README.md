@@ -6,7 +6,7 @@ Utitlity batch processing of convert document PDF to Image. This converter based
 - Able to selective convert based on file extensions, only pdf file will proceed.
 - Able to group conversion result into specific output folder and prefix filenames.
 
-# Environtment
+# Requirements
 - Python 3.6+ (https://www.python.org/downloads/)
 - Poppler (https://github.com/freedesktop/poppler)
 - pdf2image (https://pypi.org/project/pdf2image/)
